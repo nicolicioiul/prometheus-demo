@@ -1,6 +1,10 @@
 # prometheus-demo
 Demo prometheus setup with alert manager and cadvisor
 
+Installation
+  run mkdir -p var/alertmanager/data
+  run mkdir -p var/grafana/data
+  
 
 Based on https://sbcode.net/prometheus/install-prometheus/
 
